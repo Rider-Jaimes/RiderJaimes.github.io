@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Sjoerd Viktor Beentjes</title>
-    <link>https://SjoerdVBeentjes.github.io/home/</link>
-    <description>Recent content in Homes on Sjoerd Viktor Beentjes</description>
+    <title>Homes on Rider Jaimes Reategui</title>
+    <link>https://RiderJaimes.github.io/home/</link>
+    <description>Recent content in Homes on Rider Jaimes Reategui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Sjoerd Beentjes</copyright>
+    <copyright>&amp;copy; 2022 Rider Jaimes Reategui</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://SjoerdVBeentjes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://RiderJaimes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://SjoerdVBeentjes.github.io/home/about/</link>
+      <link>https://RiderJaimes.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/home/about/</guid>
-      <description>About me Welcome to my homepage! I am a mathematican based in Edinburgh, UK.
-I am a Chancellor&amp;rsquo;s Fellow in the School of Mathematics at the University of Edinburgh. I am affiliated with the MRC Human Genetics Unit, Institute of Genetics and Cancer. My group page can be found here.
-We are interested in applications of mathematical statistics to causal questions arising in population biomedicine, drug discovery and public health policy.</description>
+      <guid>https://RiderJaimes.github.io/home/about/</guid>
+      <description>About me Welcome to my homepage! I am research professor at Centro Universitario de lo lagos, Universidad de Guadalajara, Mexico.
+ I am member of Sidtema Nacional de Invesitgadores (S.N.I). My group homepage is available here <atom:link href="https://sites.google.com/academicos.udg.mx/caosci/inicio?authuser=0" rel="self" type="application/rss+xml" />
+We are interested in dynamical systems, synchronization, and complex networks.</description>
     </item>
     
     <item>
       <title>Papers and preprints</title>
-      <link>https://SjoerdVBeentjes.github.io/home/publications/</link>
+      <link>https://RiderJaimes.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/home/publications/</guid>
+      <guid>https://RiderJaimes.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborators</title>
-      <link>https://SjoerdVBeentjes.github.io/home/collaborators/</link>
+      <link>https://RiderJaimes.github.io/home/collaborators/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/home/collaborators/</guid>
+      <guid>https://RiderJaimes.github.io/home/collaborators/</guid>
       <description>Mathematical Statistics: Mark van der Laan
 Biomedical Sciences: Wendy Bickmore, Andrew Bretherick, Neil Carragher, Ava Khamseh, Chris Ponting, Karin Purshouse, Martin Taylor
 Algebraic Geometry: Arend Bayer, John Calabrese, Francesca Carocci, Ben Davison, Jørgen Vold Rennemo, Andrea Ricolfi</description>
@@ -45,10 +45,10 @@ Algebraic Geometry: Arend Bayer, John Calabrese, Francesca Carocci, Ben Davison,
     
     <item>
       <title>Students</title>
-      <link>https://SjoerdVBeentjes.github.io/home/students/</link>
+      <link>https://RiderJaimes.github.io/home/students/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/home/students/</guid>
+      <guid>https://RiderJaimes.github.io/home/students/</guid>
       <description>PhD
 Olivier Labayle Pabet (2021, CDT in Biomedical AI, School of Informatics)
 Kelsey Tetley-Campbell (2021, MRC Human Genetics Unit, IGC)
@@ -61,10 +61,10 @@ Yue Zhang (Spring 2021, SoI): Topological Data Analysis</description>
     
     <item>
       <title>Teaching</title>
-      <link>https://SjoerdVBeentjes.github.io/home/teaching/</link>
+      <link>https://RiderJaimes.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/home/teaching/</guid>
+      <guid>https://RiderJaimes.github.io/home/teaching/</guid>
       <description>2022-2023: Course organiser and lecturer for Targeted Causal Learning. This course will run for the first time in Semester 2 of this academic year.
 2021-2022: Coordinated and ran tutorials for Biomedical Data Science
 2020-2021: Lecturer for SMSTC Manifolds (first half, Edinburgh)
@@ -73,19 +73,19 @@ Yue Zhang (Spring 2021, SoI): Topological Data Analysis</description>
     
     <item>
       <title>Selected talks</title>
-      <link>https://SjoerdVBeentjes.github.io/home/talks/</link>
+      <link>https://RiderJaimes.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/home/talks/</guid>
+      <guid>https://RiderJaimes.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://SjoerdVBeentjes.github.io/home/contact/</link>
+      <link>https://RiderJaimes.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://SjoerdVBeentjes.github.io/home/contact/</guid>
+      <guid>https://RiderJaimes.github.io/home/contact/</guid>
       <description></description>
     </item>
     
