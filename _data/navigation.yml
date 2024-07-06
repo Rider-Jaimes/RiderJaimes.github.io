@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "News"
-    url: /news/
+  - permalink: /CAOSCI LAB/
+    title: "CAOSCI"
   - title: "Publications"
     url: /publications/
   - title: "Talks and posters"
