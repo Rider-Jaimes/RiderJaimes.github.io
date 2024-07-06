@@ -2,8 +2,14 @@
 permalink: /about/
 title: "About"
 ---
-I am a second year PhD student in the School of Informatics at the University of Edinburgh supervised by [Dr. Rik Sarkar](https://homepages.inf.ed.ac.uk/rsarkar/). I am part of the [ANGLE lab](https://angle-lab.com/) and the [Centre for Doctoral Training (CDT) in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai). I am exploring interesting applications of Topological Data Analysis (TDA) and geometry to biomedical data and machine learning. During March-June 2023, I did a very prolific research visit at Helmholtz Zentrum Munich at [Bastian Rieck](https://bastian.rieck.me/) 's [AIDOS group](https://aidos.group/).
+I am a research professor at Centro Univesitario de los Laogs, Univesidad de Guadalajara, Jalisco, Mexico.
 
-Currently I am doing a Data Science internship at Google in Zurich.
+I am member of [Sistema Nacional de Investigadores (S.N.I)](https://conahcyt.mx/sistema-nacional-de-investigadores/). I am part of the [CASOCI lab](https://sites.google.com/academicos.udg.mx/caosci/inicio?authuser=0/).I acuquired my PhD at the Centero de Investigaciones en Optica, Mexico. I am exploring interesting applications of Dynamical systems and Comlex networks. Master in theoretical physics from [Pontifical Catholic University of Peru](https://www.pucp.edu.pe/en/)
 
-In my free time I like drinking coffee, eating spicy food, all sorts of exercise (cycling, walking, tennis and table tennis are top of the list) and board games (Hanabi, Set and Jungle Speed in particular).
+
+Research Interest:
+
+- Dynaimcal systems
+- Synchronization
+- Optical laser
+- Complex network

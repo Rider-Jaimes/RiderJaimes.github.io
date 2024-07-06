@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rayna Andreeva
+title: Rider Jaimes Reategui
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,13 +59,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rayna Andreeva"
+  name   : "Rider Jaimes Reategui"
   avatar : "/assets/images/bio-photo-final.jpg"
-  bio    : "PhD student in TDA, previously intern at Google and data scientist and software engineer at JP Morgan"
+  bio    : "Researcher Professor at Univesidad de Guadalajara"
   links:
-    - label: "Twitter"
+    - label: "ORICD"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/randreeva1"
+      url: "https://orcid.org/0000-0002-837-1270"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rayna-andreeva/"
@@ -77,20 +77,16 @@ author:
       url: "https://www.researchgate.net/profile/Rayna-Andreeva-2"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rorondre"
+      url: "https://github.com/Rider-Jaimes"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "ORICD"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/randreeva1"
+      url: "https://orcid.org/0000-0002-837-1270"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rorondre"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/Rider-Jaimes"
 defaults:
   # _posts
   - scope:
